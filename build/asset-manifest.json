@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fb-post/static/css/main.55eb73de.chunk.css",
+    "main.js": "/fb-post/static/js/main.78222c7a.chunk.js",
+    "main.js.map": "/fb-post/static/js/main.78222c7a.chunk.js.map",
+    "runtime-main.js": "/fb-post/static/js/runtime-main.1a07a496.js",
+    "runtime-main.js.map": "/fb-post/static/js/runtime-main.1a07a496.js.map",
+    "static/js/2.2b3c77a7.chunk.js": "/fb-post/static/js/2.2b3c77a7.chunk.js",
+    "static/js/2.2b3c77a7.chunk.js.map": "/fb-post/static/js/2.2b3c77a7.chunk.js.map",
+    "static/js/3.7bcb88f1.chunk.js": "/fb-post/static/js/3.7bcb88f1.chunk.js",
+    "static/js/3.7bcb88f1.chunk.js.map": "/fb-post/static/js/3.7bcb88f1.chunk.js.map",
+    "index.html": "/fb-post/index.html",
+    "static/css/main.55eb73de.chunk.css.map": "/fb-post/static/css/main.55eb73de.chunk.css.map",
+    "static/js/2.2b3c77a7.chunk.js.LICENSE.txt": "/fb-post/static/js/2.2b3c77a7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/fb-post/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a07a496.js",
+    "static/js/2.2b3c77a7.chunk.js",
+    "static/css/main.55eb73de.chunk.css",
+    "static/js/main.78222c7a.chunk.js"
+  ]
+}
